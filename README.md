@@ -1,8 +1,8 @@
-# Hey There, Data Fanatics! 👋
+# Hey There! 👋
 
 The name's Amin, the Data Whisperer. With over 8 years in the field, I've been around the block a few times, modeling, analyzing, and generally getting my hands dirty in all things data. My special powers? Machine Learning, Deep Learning, and Bayesian Modelling. My secret weapon? A PhD in Statistics.
 
-## 🎓 Learning, Always Learning
+## 🎓 Always Learning!
 
 They say I'm a doctor, but not the kind that can save you from a heart attack. Unless it's caused by a data problem – in that case, I'm your guy. I hold a PhD in Statistics, and I use it to dissect data, dig out hidden insights and create an understanding from the chaos.
 
