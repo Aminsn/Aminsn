@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-The name's Amin, the Data Whisperer. With over 8 years in the field, I've been around the block a few times, modeling, analyzing, and generally getting my hands dirty in all things data. My special powers? Machine Learning, Deep Learning, and Bayesian Modelling.
+My name's Amin, the Data Whisperer. With over 8 years in the field, I've been around the block a few times, modeling, analyzing, and generally getting my hands dirty in all things data. My special powers? Machine Learning, Deep Learning, and Bayesian Modelling.
 
 
 ## 💻 Technical Jazz
